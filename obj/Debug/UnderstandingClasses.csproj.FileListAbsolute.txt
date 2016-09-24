@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\UnderstandingClasses\UnderstandingClasses\bin\Debug\UnderstandingClasses.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UnderstandingClasses\UnderstandingClasses\bin\Debug\UnderstandingClasses.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UnderstandingClasses\UnderstandingClasses\bin\Debug\UnderstandingClasses.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UnderstandingClasses\UnderstandingClasses\obj\Debug\UnderstandingClasses.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UnderstandingClasses\UnderstandingClasses\obj\Debug\UnderstandingClasses.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UnderstandingClasses\UnderstandingClasses\obj\Debug\UnderstandingClasses.pdb
